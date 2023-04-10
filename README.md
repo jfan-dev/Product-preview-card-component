@@ -62,9 +62,9 @@ How to create a responsive layout for mobile and web while maintaining the size 
 
 I need to improve my knowledge of the css units and the best case for each use, need to use more comments for future reference and the right time to git commit the code.
 
-## Author
+## 🐼 Author
 
-- E-Mail - [Jaime Fernandes](jfan.dev@gmail.com)
+- Jaime Fernandes - jfan.dev@gmail.com
 - Frontend Mentor - [@jfan-dev](https://www.frontendmentor.io/profile/jfan-dev)
 
 ## Acknowledgments
